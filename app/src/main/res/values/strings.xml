@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EtoB Date</string>
+    <string name="t">Enter English Date...</string>
+    <string name="tt">Enter Birth Date...</string>
+    <string name="dd">Day</string>
+    <string name="mm">Month</string>
+    <string name="yy">Year</string>
+    <string name="find">Show Date</string>
+    <string name="findd">Calculate Age</string>
+</resources>

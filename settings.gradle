@@ -1,0 +1,2 @@
+rootProject.name='EtoB Date'
+include ':app'
